@@ -11,7 +11,7 @@ Silakan lihat branch yang tersedia untuk melihat kode yang digunakan pada kelas 
 
 ✅3. Menambahkan list pada halaman profil  
 ✅4. Menambahkan gambar pada halaman profil  
-⬛5. Menerapkan elemen anchor pada halaman profil  
+✅5. Menerapkan elemen anchor pada halaman profil  
 ⬛6. Mengorganisasi konten pada halaman profil  
 ⬛7. Menerapkan elemen tabel pada halaman profil  
 
