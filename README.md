@@ -4,8 +4,8 @@ Silakan lihat branch yang tersedia untuk melihat kode yang digunakan pada kelas 
 # 🚀 Progres Latihan Made Mara pada latihan dasar pemrograman web
 ## 📙Pengenalan HTML
 
-⬛1. Membangun halaman web pertamna  
-⬛2. Identifikasi elemen halaman profil 
+✅1. Membangun halaman web pertamna  
+✅2. Identifikasi elemen halaman profil 
 
 ## 📙Pendalaman HTML
 
