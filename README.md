@@ -20,7 +20,7 @@ Silakan lihat branch yang tersedia untuk melihat kode yang digunakan pada kelas 
 ✅8. Menerapkan styling dasar pada halaman profil  
 
 ## 📘 Pendalaman CSS
-⬛9. Menerapkan font styling pada halaman profil  
+✅9. Menerapkan font styling pada halaman profil  
 ⬛10. Mengatur-box-model-pada-halaman-profil  
 ⬛11. Menerapkan-positioning-float-pada-halaman-profil  
 ⬛12. Membuat-mobile-version-untuk-halaman-profil  
