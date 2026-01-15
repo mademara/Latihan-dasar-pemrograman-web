@@ -26,5 +26,5 @@ Silakan lihat branch yang tersedia untuk melihat kode yang digunakan pada kelas 
 ✅12. Membuat mobile version untuk halaman profil  
 ✅13. Menerapkan sticky position pada navigation list  
 ✅14. Implementasi flexbox pada halaman profil  
-⬛15. Membangun landing page Dicoding  
+✅15. Membangun landing page Dicoding  
 ⬛16. Meningkatkan responsivitas pada landing page Dicoding  
